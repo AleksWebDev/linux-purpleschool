@@ -1,0 +1,2 @@
+change propmt bash in linux : export PS1="[\d]\u@\H>"
+result [Tue Nov 26]aleksandr@ws01>
