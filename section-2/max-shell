@@ -1,0 +1,3 @@
+To see what type of bash is set by default use command <echo $SHELL>.
+
+my default shell: /bin/bash
